@@ -1,0 +1,13 @@
+h1{
+    color: brown; 
+    text-align: center;
+}
+
+.login_input{/*class는 앞에 .만 붙이고 class명을 붙이면된다.*/
+    font-size: 25px;
+}
+#btn_login{/*id는 #을 앞에 붙여줌*/
+    font-size: 25px;
+    width: 300px;
+    height: 30px;
+}
