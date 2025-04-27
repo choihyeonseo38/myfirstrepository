@@ -1,0 +1,24 @@
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+.login_inputs {
+    font-size: 25px;
+    color: #333;
+}
+
+#btn_login {
+    font-size: 25px;
+    width: 100px;
+    height: 30px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btn_login:hover {
+    background-color: red;
+}
